@@ -14,7 +14,7 @@
             "required": true
         },
         "MONGODB_UR": {
-            "description": "Put Mongodb Database Url for Run Bot",
+            "description": "mongodb+srv://domkaya4:Ii5KR5Ee3UiO40RY@cluster0.ve7qd.mongodb.net/",
             "required": true
         }
     },
